@@ -1,5 +1,5 @@
 # space-key
-An antimicrobial copper tool for safe use of “high-touch surfaces” in public places
+An antimicrobial copper tool for safe use of “high-touch surfaces” in public places released under CERN Open Hardware License (CERN-OHL-S v2)
 
 This device was conceived as an aid to halt the spread of the corona virus (covid-19). The design is made to be very simple to fabricate with a waterjet or laser & anyone willing to do so, can make their own. It was inspired by the "wuhan hook", a DIY hack invented at the ground zero of the pandemic.
 
